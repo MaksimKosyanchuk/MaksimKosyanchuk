@@ -7,7 +7,7 @@
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=bababa)](https://unity.com/ru)
 
 ## Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=4FC08D)](https://t.me/mak_sinus)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=5599f2)](https://t.me/mak_sinus)
 [![Instagram](https://img.shields.io/badge/-%20Instagram-000000?style=for-the-badge&logo=instagram&logoColor=fab339)](https://www.instagram.com/mak_sinus/)
 [![Twitter](https://img.shields.io/badge/-%20Twitter-000000?style=for-the-badge&logo=twitter&logoColor=3786ed)](https://twitter.com/Mak_Sinus)
 [![Facebook](https://img.shields.io/badge/-%20Facebook-000000?style=for-the-badge&logo=facebook&logoColor=4c7cf5)](https://www.facebook.com/MakSinus)
