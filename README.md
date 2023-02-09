@@ -1,7 +1,6 @@
 ## My skills
 [![Csharp](https://img.shields.io/badge/-C%20Sharp-000000?style=for-the-badge&logo=c-sharp&logoColor=8a39fa)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/-%20C++-000000?style=for-the-badge&logo=cplusplus&logoColor=4076ff)](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 
 [![WindowsForms](https://img.shields.io/badge/-Windows%20Forms-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0095ff)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-6.0)
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=bababa)](https://unity.com/ru)
