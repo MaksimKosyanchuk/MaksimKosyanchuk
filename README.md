@@ -1,11 +1,3 @@
-## My skills
-[![Csharp](https://img.shields.io/badge/-C%20Sharp-000000?style=for-the-badge&logo=c-sharp&logoColor=8a39fa)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python)](https://www.python.org/)
-
-[![WindowsForms](https://img.shields.io/badge/-Windows%20Forms-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0095ff)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-6.0)
-[![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=bababa)](https://unity.com/ru)
-[![Telegram Bot Api](https://img.shields.io/badge/-Telegram.bot.api-000000?style=for-the-badge&logo=Telegram&logoColor=5599f2)](https://core.telegram.org/bots/api)
-
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=	)](https://t.me/mak_sinus)
 [![Instagram](https://img.shields.io/badge/-%20Instagram-000000?style=for-the-badge&logo=instagram&logoColor=fab339)](https://www.instagram.com/mak_sinus/)
