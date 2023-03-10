@@ -1,6 +1,6 @@
 ## Laguages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimKosyanchuk&theme=nightowl)](https://github.com/MaksimKosyanchuk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimKosyanchuk&theme=nightowl&layout=compact)](https://github.com/MaksimKosyanchuk)
 
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=	)](https://t.me/mak_sinus)
