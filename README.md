@@ -1,6 +1,7 @@
 ## Laguages
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaksimKosyanchuk&theme=nightowl)]
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaksimKosyanchuk&theme=nightowl)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimKosyanchuk&theme=nightowl)](https://github.com/MaksimKosyanchuk)
 
 ## Follow Me
