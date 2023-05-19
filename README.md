@@ -8,4 +8,4 @@
 [![Facebook](https://img.shields.io/badge/-%20Facebook-000000?style=for-the-badge&logo=facebook&logoColor=4c7cf5)](https://www.facebook.com/MakSinus)
 
 
-[![Dtats](https://github-readme-stats.vercel.app/api?username=MaksimKosyanchuk&theme=nightowl)](https://github.com/MaksimKosyanchuk)
+[![Dtats](https://github-readme-stats-sigma-five.vercel.app/api?username=MaksimKosyanchuk&theme=nightowl)](https://github.com/MaksimKosyanchuk)
